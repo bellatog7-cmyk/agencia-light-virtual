@@ -1,0 +1,6 @@
+```txt
+User-agent: *
+Allow: /
+
+Sitemap: https://agencia-light-virtual.vercel.app/sitemap.xml
+```
