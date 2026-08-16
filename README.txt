@@ -1,0 +1,1 @@
+Projeto Light - estrutura inicial organizada. O favicon foi gerado a partir do arquivo enviado pelo usuário.
